@@ -1,21 +1,22 @@
 {
    "pageTitle":"Sharp Games - gry planszowe",
    "navBar":{
-      "home":"Domek",
-      "service":"Service",
-      "aboutUs":"About Us",
+      "home":"Home",
+      "service":"Oferta",
+      "aboutUs":"O nas",
       "portfolio":"Portfolio",
-      "team":"Team",
-      "blog":"Blog",
-      "contact":"Contact"
+      "team":"Zespół",
+      "blog":"Newsy",
+      "contact":"Kontakt"
    },
    "home":{
-      "title1":"Witaj na stronie Sharp Games",
+      "title1":"Witaj na stronie <span>Sharp Games</span>",
       "desc1":"Gry planszowe na zamówienie - strategiczne - ekonomiczne - biznesowe",
-      "title2":"Nawiąż współpracę z Sharp Games",
+      "title2":"Nawiąż współpracę z <span>Sharp Games</span>",
       "desc2":"Projektowanie i produkcja gier planszowych",
-      "title3":"blablalblal",
-      "desc3":"blalbla"
+      "title3":"Jesteśmy <span>Sharp Games</span>",
+      "desc3":"Zapaleńcy i profesjonaliści w swoim żywiole",
+      "start":"Rozpocznij teraz!"
    },
    "service":{
       "main":{
