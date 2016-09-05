@@ -1,12 +1,12 @@
-{
+{{
    "pageTitle":"Sharp Games - gry planszowe",
    "navBar":{
       "home":"Home",
       "service":"Oferta",
       "aboutUs":"O nas",
-      "portfolio":"Portfolio",
+      "portfolio":"Nasze gry",
       "team":"Zespół",
-      "blog":"Newsy",
+      "blog":"Blog",
       "contact":"Kontakt"
    },
    "home":{
@@ -20,16 +20,102 @@
    },
    "service":{
       "main":{
-         "title":"Our Services",
-         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam"
+         "title":"SHARP GAMES",
+         "desc":"Jesteśmy wydawnictwem zajmującym się projektowaniem oraz produkcją gier planszowych i szkoleniowych." (każdy service ma otwierać podstrone, zmieniamy grafiki)
       },
       "service1":{
-         "title":"Brand Identity",
-         "desc":"blalbla"
+         "title":"DLACZEGO WARTO GRAĆ?",
+         "desc":"Gry planszowe przeżywają swój renesans. Pozwalają one nie tylko ciekawie spędzić czas wolny, ale także mają wiele innych zastosowań i zalet. Z chęcią je wam przybliżymy. "
       },
       "service2":{
-         "title":"Creative Idea",
-         "desc":"baabab"
-      }
-   }
+         "title":"JAK MY TWORZYMY GRY?",
+         "desc":"W projektowaniu gier najistotniejsze jest idea. Zobacz jak wygląda proces przekłuwania pomysłu w grę",
+	},
+
+      "service3":{
+         "title":"CO MOŻEMY ZAOFEROWAĆ?",
+         "desc":"Kompletne gry planszowe,karciane i szkoleniowe. Zawierające unikalne mechanizmy, grafiki i tło fabularne dostosowane do wymagań naszych klientów ."
+	},
+      "service4":{
+         "title":"ZAGRACIE Z NAMI?",
+         "desc":"Gdzie i kiedy możecie spotkac się z nami i zagrać."
+	}
+   },
+   "aboutus":{
+      "title":"O nas",
+      "desc1":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.Ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>",
+      "desc2":"<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
+      "progress1":"User Experiance",
+      "progress2":"Web Design",
+      "progress3":"Programming",
+      "progress4":"Fun"
+   },
+   "portfolio":{
+         "main":{
+            "title":"NASZE GRY",
+            "desc":"Zapraszamy do zapoznania sie z naszymi dotychczasowymi i nadchodzącymi dziełami." [wypierdalamy 1 ikonki po kliknięciu na zdjęcie otwiera się galeria i tyle]
+           }
+    },
+"team":{
+       "main":{
+	  "title":"Zespół",
+         "desc":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
+         }
+	"title1":"Mateusz Kościelnicki",
+	"subtitle1":"Założyciel",
+         "desc1":"Gry są moją pasją. Jeszcze w czasach studenckich marzyłem o pracy związanej z grami. Wkrótce po ukończeniu nauki podjąłem decyzję o założeniu własnej firmy, by spełnić swoje marzenia, a z Wami podzielić się moją pasją..",
+	"title2":"Justyna Bąk",
+	"subtitle1":"Grafik",
+         "desc2":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
+	"title3":"Tomasz Solga",
+	"subtitle1":"Doradca projektowy",
+         "desc3":"Od wielu lat gram gry planszowwe, fabularne i komputerowe. Decyzja o podjęciu pracy przy ich tworzeniu była więc naturalna. Burze mózgów, które mamy na codzień, analizowanie wszytskich pomysłów i wniosków sprawiają mi wielką przyjemność, jeszcze większą testowanie naszych dzieł! ",
+	"title4":"Ewelina Chruścińska",
+	"subtitle1":"Grafik",
+         "desc4":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
+},
+"statistics":{
+    "stat1":{
+        "number": 4000,
+        "desc": "Happy Clients"
+    },
+    "stat2":{
+        "number": 200,
+        "desc": "Modern Websites"
+    },
+    "stat3":{
+        "number": "10",
+        "desc": "Winning Awards"
+    },
+    "stat4":{
+        "number": "24/7",
+        "desc": "Fast Support"
+    },
+},
+"twitter":{
+    "title":"Sharp Games - twitter",
+    "entry1":"<p>Nowy wpis na twitterze <a href="#"><span>#sharpgames #gryplanszowe</span> http://google.com</a></p>"
+},
+  "blog":{
+      "main":{
+         "title":"Refleksje",
+          "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam"
+        }
+},
+    "contact":{
+        "main":{
+            "title":"Kontakt",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam"
+        },
+        "form":{
+            "send":"Wyslij"
+        },
+        "info":{
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "address":"<i class="fa fa-map-marker"></i> <span> Address:</span> 2400 South Avenue A",
+            "phone":"<i class="fa fa-phone"></i> <span> Phone:</span> +928 336 2000  ",
+            "email":"<i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:sharpgamespoland@gmail.com"> sharpgamespoland [at] gmail.com</a>",
+            "website":"<i class="fa fa-globe"></i> <span> Website:</span> <a href="#">www.sharpgames.pl</a>"
+        }
+    }
 }
