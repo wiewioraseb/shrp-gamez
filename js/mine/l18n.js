@@ -108,7 +108,8 @@ $(function(){
 	J42R.t();
 	var selectLang = $('#lang');
 	$.each(
-		['de','en','es','fr','pl'],
+		// ['de','en','es','fr','pl'],
+		['en','pl'],
 		function(idx,val){
 			$('<option>').attr('value',val).text(val).appendTo(selectLang);
 		}

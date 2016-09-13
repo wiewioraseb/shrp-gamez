@@ -10,11 +10,11 @@
       "contact":"Kontakt"
    },
    "home":{
-      "title1":"Witaj na stronie <span>Sharp Games</span>",
+      "title1":"Witaj na stronie",
       "desc1":"Gry planszowe na zamówienie - strategiczne - ekonomiczne - biznesowe",
-      "title2":"Nawiąż współpracę z <span>Sharp Games</span>",
+      "title2":"Nawiąż współpracę z",
       "desc2":"Projektowanie i produkcja gier planszowych",
-      "title3":"Jesteśmy <span>Sharp Games</span>",
+      "title3":"Jesteśmy",
       "desc3":"Zapaleńcy i profesjonaliści w swoim żywiole",
       "start":"Rozpocznij teraz!"
    },
@@ -93,7 +93,7 @@
 },
 "twitter":{
     "title":"Sharp Games - twitter",
-    "entry1":"<p>Nowy wpis na twitterze <a href='#'><span>#sharpgames #gryplanszowe</span> http://google.com</a></p>"
+    "entry1":"Nowy wpis na twitterze #sharpgames #gryplanszowe"
 },
   "blog":{
       "main":{
@@ -111,10 +111,10 @@
         },
         "info":{
             "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            "address":"<i class='fa fa-map-marker'></i> <span> Address:</span> 2400 South Avenue A",
-            "phone":"<i class='fa fa-phone'></i> <span> Phone:</span> +928 336 2000  ",
-            "email":"<i class='fa fa-envelope'></i> <span> Email:</span><a href='mailto:sharpgamespoland@gmail.com'> sharpgamespoland [at] gmail.com</a>",
-            "website":"<i class='fa fa-globe'></i> <span> Website:</span> <a href='#'>www.sharpgames.pl</a>"
+            "address":" Address: ",
+            "phone":" Phone: ",
+            "email":" Email: ",
+            "website":" Website: "
         }
     }
 }
