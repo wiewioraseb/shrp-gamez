@@ -42,12 +42,12 @@
    },
    "aboutus":{
       "title":"O nas",
-      "desc1":"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.Ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>",
-      "desc2":"<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
-      "progress1":"User Experiance",
-      "progress2":"Web Design",
-      "progress3":"Programming",
-      "progress4":"Fun"
+      "desc1":"<p>Jesteśmy grupą przyjaciół, która od wielu lat wspólnie gra w rozmaite gry planszowe. Niejeden raz zdarzyło nam się zarwać noc by rozegrać 'tylko  jeszcze jedną partyjkę'. Czasy studenckie minęły, staliśmy się absolwentami, życie zmusiło nas do zadania sobie tego niezwykle ważnego pytania: co dalej? </p>",
+      "desc2":"<p>W naszych głowach zaczął kiełkować pomysł by robić to co kochamy... czyli gry planszowe. Po wielu miesiącach ciężkiej pracy zaczęliśmy realizować nasze marzenie…. tak powstało SHARP GAMES wydawnictwo gier planszowych.</p>",
+      "progress1":"Zgranie",
+      "progress2":"Efektywność",
+      "progress3":"Zapał",
+      "progress4":"Poczucie humoru"
    },
    "portfolio":{
          "main":{
