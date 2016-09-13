@@ -1,4 +1,4 @@
-{{
+{
    "pageTitle":"Sharp Games - gry planszowe",
    "navBar":{
       "home":"Home",
@@ -21,20 +21,19 @@
    "service":{
       "main":{
          "title":"SHARP GAMES",
-         "desc":"Jesteśmy wydawnictwem zajmującym się projektowaniem oraz produkcją gier planszowych i szkoleniowych." (każdy service ma otwierać podstrone, zmieniamy grafiki)
+         "desc":"Jesteśmy wydawnictwem zajmującym się projektowaniem oraz produkcją gier planszowych i szkoleniowych."
       },
       "service1":{
          "title":"DLACZEGO WARTO GRAĆ?",
-         "desc":"Gry planszowe przeżywają swój renesans. Pozwalają one nie tylko ciekawie spędzić czas wolny, ale także mają wiele innych zastosowań i zalet. Z chęcią je wam przybliżymy. "
+         "desc":"Gry planszowe przeżywają swój renesans. Pozwalają one nie tylko ciekawie spędzić czas wolny, ale także mają wiele innych zastosowań i zalet. Z chęcią je wam przybliżymy."
       },
       "service2":{
          "title":"JAK MY TWORZYMY GRY?",
-         "desc":"W projektowaniu gier najistotniejsze jest idea. Zobacz jak wygląda proces przekłuwania pomysłu w grę",
+         "desc":"W projektowaniu gier najistotniejsze jest idea. Zobacz jak wygląda proces przekłuwania pomysłu w grę"
 	},
-
       "service3":{
          "title":"CO MOŻEMY ZAOFEROWAĆ?",
-         "desc":"Kompletne gry planszowe,karciane i szkoleniowe. Zawierające unikalne mechanizmy, grafiki i tło fabularne dostosowane do wymagań naszych klientów ."
+         "desc":"Kompletne gry planszowe,karciane i szkoleniowe. Zawierające unikalne mechanizmy, grafiki i tło fabularne dostosowane do wymagań naszych klientów."
 	},
       "service4":{
          "title":"ZAGRACIE Z NAMI?",
@@ -53,25 +52,25 @@
    "portfolio":{
          "main":{
             "title":"NASZE GRY",
-            "desc":"Zapraszamy do zapoznania sie z naszymi dotychczasowymi i nadchodzącymi dziełami." [wypierdalamy 1 ikonki po kliknięciu na zdjęcie otwiera się galeria i tyle]
+            "desc":"Zapraszamy do zapoznania sie z naszymi dotychczasowymi i nadchodzącymi dziełami."
            }
     },
 "team":{
        "main":{
 	  "title":"Zespół",
          "desc":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
-         }
+         },
 	"title1":"Mateusz Kościelnicki",
 	"subtitle1":"Założyciel",
          "desc1":"Gry są moją pasją. Jeszcze w czasach studenckich marzyłem o pracy związanej z grami. Wkrótce po ukończeniu nauki podjąłem decyzję o założeniu własnej firmy, by spełnić swoje marzenia, a z Wami podzielić się moją pasją..",
 	"title2":"Justyna Bąk",
-	"subtitle1":"Grafik",
-         "desc2":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
+	"subtitle2":"Grafik",
+         "desc2":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!",
 	"title3":"Tomasz Solga",
-	"subtitle1":"Doradca projektowy",
+	"subtitle3":"Doradca projektowy",
          "desc3":"Od wielu lat gram gry planszowwe, fabularne i komputerowe. Decyzja o podjęciu pracy przy ich tworzeniu była więc naturalna. Burze mózgów, które mamy na codzień, analizowanie wszytskich pomysłów i wniosków sprawiają mi wielką przyjemność, jeszcze większą testowanie naszych dzieł! ",
 	"title4":"Ewelina Chruścińska",
-	"subtitle1":"Grafik",
+	"subtitle4":"Grafik",
          "desc4":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
 },
 "statistics":{
@@ -90,11 +89,11 @@
     "stat4":{
         "number": "24/7",
         "desc": "Fast Support"
-    },
+    }
 },
 "twitter":{
     "title":"Sharp Games - twitter",
-    "entry1":"<p>Nowy wpis na twitterze <a href="#"><span>#sharpgames #gryplanszowe</span> http://google.com</a></p>"
+    "entry1":"<p>Nowy wpis na twitterze <a href='#'><span>#sharpgames #gryplanszowe</span> http://google.com</a></p>"
 },
   "blog":{
       "main":{
@@ -112,10 +111,10 @@
         },
         "info":{
             "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            "address":"<i class="fa fa-map-marker"></i> <span> Address:</span> 2400 South Avenue A",
-            "phone":"<i class="fa fa-phone"></i> <span> Phone:</span> +928 336 2000  ",
-            "email":"<i class="fa fa-envelope"></i> <span> Email:</span><a href="mailto:sharpgamespoland@gmail.com"> sharpgamespoland [at] gmail.com</a>",
-            "website":"<i class="fa fa-globe"></i> <span> Website:</span> <a href="#">www.sharpgames.pl</a>"
+            "address":"<i class='fa fa-map-marker'></i> <span> Address:</span> 2400 South Avenue A",
+            "phone":"<i class='fa fa-phone'></i> <span> Phone:</span> +928 336 2000  ",
+            "email":"<i class='fa fa-envelope'></i> <span> Email:</span><a href='mailto:sharpgamespoland@gmail.com'> sharpgamespoland [at] gmail.com</a>",
+            "website":"<i class='fa fa-globe'></i> <span> Website:</span> <a href='#'>www.sharpgames.pl</a>"
         }
     }
 }
