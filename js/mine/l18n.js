@@ -48,9 +48,9 @@ J42R = {
 	},
 	load: function() {
 		var self=this,lang=this.getLang();
-		$.getJSON('I18N/'+lang,function(data) {
+		$.getJSON('I18N/'+lang,function(data,status) {
 			self.put(lang,data).t();
-		}).error(function(){
+		}).error(function(data,status, xhr){
 			self.put(lang,{}).t();
 		});
 		return this;
@@ -112,7 +112,7 @@ $(function(){
 		function(idx,val){
 			$('<option>').attr('value',val).text(val).appendTo(selectLang);
 		}
-	);	
+	);
 	selectLang
 		.focus()
 		.val(J42R.getLang())
