@@ -111,10 +111,10 @@
         },
         "info":{
             "desc":"Dane kontaktowe:",
-            "address":" Ruda Śląska 41-707, ul.Bałtycka 57 ",
-            "phone":" +48 576 288 002 ",
-            "email":" biuro@sharpgames.pl ",
-			"website":" Website: "
+            "address":" Adres: ",
+            "phone":" Telefon: ",
+            "email":" Email: ",
+			"website":" Strona: "
         }
     }
 }
