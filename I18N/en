@@ -2,33 +2,119 @@
    "pageTitle":"Sharp Games - gry planszowe",
    "navBar":{
       "home":"Home",
-      "service":"Service",
-      "aboutUs":"About Us",
-      "portfolio":"Portfolio",
-      "team":"Team",
+      "service":"Oferta",
+      "aboutUs":"O nas",
+      "portfolio":"Nasze gry",
+      "team":"Zespół",
       "blog":"Blog",
-      "contact":"Contact"
+      "contact":"Kontakt"
    },
    "home":{
-      "title1":"Witaj na stronie Sharp Games",
+      "title1":"Witaj na stronie",
       "desc1":"Gry planszowe na zamówienie - strategiczne - ekonomiczne - biznesowe",
-      "title2":"Nawiąż współpracę z Sharp Games",
+      "title2":"Nawiąż współpracę z",
       "desc2":"Projektowanie i produkcja gier planszowych",
-      "title3":"blablalblal",
-      "desc3":"blalbla"
+      "title3":"Jesteśmy",
+      "desc3":"Zapaleńcy i profesjonaliści w swoim żywiole",
+      "start":"Rozpocznij teraz!"
    },
    "service":{
       "main":{
-         "title":"Our Services",
-         "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam"
+         "title":"SHARP GAMES",
+         "desc":"Jesteśmy wydawnictwem zajmującym się projektowaniem oraz produkcją gier planszowych i szkoleniowych."
       },
       "service1":{
-         "title":"Brand Identity",
-         "desc":"blalbla"
+         "title":"DLACZEGO WARTO GRAĆ?",
+         "desc":"Gry planszowe przeżywają swój renesans. Pozwalają one nie tylko ciekawie spędzić czas wolny, ale także mają wiele innych zastosowań i zalet. Z chęcią je wam przybliżymy."
       },
       "service2":{
-         "title":"Creative Idea",
-         "desc":"baabab"
-      }
-   }
+         "title":"JAK MY TWORZYMY GRY?",
+         "desc":"W projektowaniu gier najistotniejsze jest idea. Zobacz jak wygląda proces przekłuwania pomysłu w grę."
+	},
+      "service3":{
+         "title":"CO MOŻEMY ZAOFEROWAĆ?",
+         "desc":"Kompletne gry planszowe,karciane i szkoleniowe. Zawierające unikalne mechanizmy, grafiki i tło fabularne dostosowane do wymagań naszych klientów."
+	},
+      "service4":{
+         "title":"ZAGRACIE Z NAMI?",
+         "desc":"Gdzie i kiedy możecie spotkac się z nami i zagrać."
+	}
+   },
+   "aboutus":{
+      "title":"O nas",
+      "desc1":"Jesteśmy grupą przyjaciół, która od wielu lat wspólnie gra w rozmaite gry planszowe. Niejeden raz zdarzyło nam się zarwać noc by rozegrać 'tylko  jeszcze jedną partyjkę'. Czasy studenckie minęły, staliśmy się absolwentami, życie zmusiło nas do zadania sobie tego niezwykle ważnego pytania: co dalej?",
+      "desc2":"W naszych głowach zaczął kiełkować pomysł by robić to co kochamy... czyli gry planszowe. Po wielu miesiącach ciężkiej pracy zaczęliśmy realizować nasze marzenie…. tak powstało SHARP GAMES wydawnictwo gier planszowych.",
+      "progress1":"Zgranie",
+      "progress2":"Efektywność",
+      "progress3":"Zapał",
+      "progress4":"Poczucie humoru"
+   },
+   "portfolio":{
+         "main":{
+            "title":"NASZE GRY",
+            "desc":"Zapraszamy do zapoznania sie z naszymi dotychczasowymi i nadchodzącymi dziełami."
+           }
+    },
+"team":{
+       "main":{
+	  "title":"Zespół",
+         "desc":"Poznaj nasz team"
+         },
+	"title1":"Mateusz Kościelnicki",
+	"subtitle1":"Założyciel",
+         "desc1":"Gry są moją pasją. Jeszcze w czasach studenckich myślałem o pracy związanej z grami. Wkrótce po ukończeniu nauki podjąłem decyzję o założeniu własnej firmy, by realizować swoje pomysły, a z Wami podzielić się moją pasją.",
+	"title2":"Justyna Bąk",
+	"subtitle2":"Grafik",
+         "desc2":"Od najmłodszych lat kształcę się w kierunkach artystycznych. Praca w SHARP GAMES pozwoliła mi spełnić marzenia z dzieciństwa i przekonać moją rodzinę do gier innej niż Chińczyk i Monopoly.",
+	"title3":"Tomasz Solga",
+	"subtitle3":"Doradca projektowy",
+         "desc3":"Od wielu lat gram gry planszowe, fabularne i komputerowe. Decyzja o podjęciu pracy przy ich tworzeniu była więc naturalna. Burze mózgów, które mamy na codzień, analizowanie wszytskich pomysłów i wniosków sprawiają mi wielką przyjemność, jeszcze większą testowanie naszych dzieł! ",
+	"title4":"Dorota Muszyńska",
+	"subtitle4":"Media społecznościowe",
+         "desc4":"Jednym z moich zainteresowań, z którym wiążę swoją przyszłość, jest psychologia. Stawiając pierwsze kroki w świecie zawodowym, staram się służyć dobrą radą w wydawnictwie, odpowiadając za media i korektę treści."
+},
+"statistics":{
+    "stat1":{
+        "number": "5253",
+        "desc": "Rozegranych partii"
+    },
+    "stat2":{
+        "number": "55000",
+        "desc": "Wyprodukowanych kart"
+    },
+    "stat3":{
+        "number": "2400",
+        "desc": "Przepracowych godzin"
+    },
+    "stat4":{
+        "number": "24/7",
+        "desc": "Myślenie o grach"
+    }
+},
+"twitter":{
+    "title":"Sharp Games - ćwierkamy",
+    "entry1":"Nowy wpis na twitterze #sharpgames #gryplanszowe #boardgames"
+},
+  "blog":{
+      "main":{
+         "title":"Refleksje",
+          "desc":"O grach i świecie, ale głównie grach...a w sumie to tylko o grach"
+        }
+},
+    "contact":{
+        "main":{
+            "title":"Kontakt",
+            "desc":"Czekamy na wasze maile i telefony."
+        },
+        "form":{
+            "send":"Wyślij"
+        },
+        "info":{
+            "desc":"Dane kontaktowe:",
+            "address":" Ruda Śląska 41-707, ul.Bałtycka 57 ",
+            "phone":" +48 576 288 002 ",
+            "email":" biuro@sharpgames.pl ",
+			"website":" Website: "
+        }
+    }
 }

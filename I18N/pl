@@ -29,7 +29,7 @@
       },
       "service2":{
          "title":"JAK MY TWORZYMY GRY?",
-         "desc":"W projektowaniu gier najistotniejsze jest idea. Zobacz jak wygląda proces przekłuwania pomysłu w grę"
+         "desc":"W projektowaniu gier najistotniejsze jest idea. Zobacz jak wygląda proces przekłuwania pomysłu w grę."
 	},
       "service3":{
          "title":"CO MOŻEMY ZAOFEROWAĆ?",
@@ -58,63 +58,63 @@
 "team":{
        "main":{
 	  "title":"Zespół",
-         "desc":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
+         "desc":"Poznaj nasz team"
          },
 	"title1":"Mateusz Kościelnicki",
 	"subtitle1":"Założyciel",
-         "desc1":"Gry są moją pasją. Jeszcze w czasach studenckich marzyłem o pracy związanej z grami. Wkrótce po ukończeniu nauki podjąłem decyzję o założeniu własnej firmy, by spełnić swoje marzenia, a z Wami podzielić się moją pasją..",
+         "desc1":"Gry są moją pasją. Jeszcze w czasach studenckich myślałem o pracy związanej z grami. Wkrótce po ukończeniu nauki podjąłem decyzję o założeniu własnej firmy, by realizować swoje pomysły, a z Wami podzielić się moją pasją.",
 	"title2":"Justyna Bąk",
 	"subtitle2":"Grafik",
-         "desc2":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!",
+         "desc2":"Od najmłodszych lat kształcę się w kierunkach artystycznych. Praca w SHARP GAMES pozwoliła mi spełnić marzenia z dzieciństwa i przekonać moją rodzinę do gier innej niż Chińczyk i Monopoly.",
 	"title3":"Tomasz Solga",
 	"subtitle3":"Doradca projektowy",
-         "desc3":"Od wielu lat gram gry planszowwe, fabularne i komputerowe. Decyzja o podjęciu pracy przy ich tworzeniu była więc naturalna. Burze mózgów, które mamy na codzień, analizowanie wszytskich pomysłów i wniosków sprawiają mi wielką przyjemność, jeszcze większą testowanie naszych dzieł! ",
-	"title4":"Ewelina Chruścińska",
-	"subtitle4":"Grafik",
-         "desc4":"Gry nie wyłaniają się z próżni, to efekt ciężkiej okupionej potem, łzami i nieprzespanymi nocami pracy naszej paczki!"
+         "desc3":"Od wielu lat gram gry planszowe, fabularne i komputerowe. Decyzja o podjęciu pracy przy ich tworzeniu była więc naturalna. Burze mózgów, które mamy na codzień, analizowanie wszytskich pomysłów i wniosków sprawiają mi wielką przyjemność, jeszcze większą testowanie naszych dzieł! ",
+	"title4":"Dorota Muszyńska",
+	"subtitle4":"Media społecznościowe",
+         "desc4":"Jednym z moich zainteresowań, z którym wiążę swoją przyszłość, jest psychologia. Stawiając pierwsze kroki w świecie zawodowym, staram się służyć dobrą radą w wydawnictwie, odpowiadając za media i korektę treści."
 },
 "statistics":{
     "stat1":{
-        "number": 4000,
-        "desc": "Happy Clients"
+        "number": "5253",
+        "desc": "Rozegranych partii"
     },
     "stat2":{
-        "number": 200,
-        "desc": "Modern Websites"
+        "number": "55000",
+        "desc": "Wyprodukowanych kart"
     },
     "stat3":{
-        "number": "10",
-        "desc": "Winning Awards"
+        "number": "2400",
+        "desc": "Przepracowych godzin"
     },
     "stat4":{
         "number": "24/7",
-        "desc": "Fast Support"
+        "desc": "Myślenie o grach"
     }
 },
 "twitter":{
-    "title":"Sharp Games - twitter",
-    "entry1":"Nowy wpis na twitterze #sharpgames #gryplanszowe"
+    "title":"Sharp Games - ćwierkamy",
+    "entry1":"Nowy wpis na twitterze #sharpgames #gryplanszowe #boardgames"
 },
   "blog":{
       "main":{
          "title":"Refleksje",
-          "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam"
+          "desc":"O grach i świecie, ale głównie grach...a w sumie to tylko o grach"
         }
 },
     "contact":{
         "main":{
             "title":"Kontakt",
-            "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam"
+            "desc":"Czekamy na wasze maile i telefony."
         },
         "form":{
-            "send":"Wyslij"
+            "send":"Wyślij"
         },
         "info":{
-            "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            "address":" Address: ",
-            "phone":" Phone: ",
-            "email":" Email: ",
-            "website":" Website: "
+            "desc":"Dane kontaktowe:",
+            "address":" Ruda Śląska 41-707, ul.Bałtycka 57 ",
+            "phone":" +48 576 288 002 ",
+            "email":" biuro@sharpgames.pl ",
+			"website":" Website: "
         }
     }
 }
