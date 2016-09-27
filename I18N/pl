@@ -1,4 +1,4 @@
-{
+﻿{
    "pageTitle":"Sharp Games - gry planszowe",
    "navBar":{
       "home":"Home",
@@ -10,13 +10,13 @@
       "contact":"Kontakt"
    },
    "home":{
-      "title1":"Witaj na stronie",
-      "desc1":"Gry planszowe na zamówienie - strategiczne - ekonomiczne - biznesowe",
-      "title2":"Nawiąż współpracę z",
-      "desc2":"Projektowanie i produkcja gier planszowych",
-      "title3":"Jesteśmy",
-      "desc3":"Zapaleńcy i profesjonaliści w swoim żywiole",
-      "start":"Rozpocznij teraz!"
+	  "start": "Rozpocznij teraz!",
+      "title1":"",
+      "desc1":"",
+      "title2":"",
+      "desc2":"",
+      "title3":"",
+      "desc3":""
    },
    "service":{
       "main":{
@@ -25,19 +25,19 @@
       },
       "service1":{
          "title":"DLACZEGO WARTO GRAĆ?",
-         "desc":"Gry planszowe przeżywają swój renesans. Pozwalają one nie tylko ciekawie spędzić czas wolny, ale także mają wiele innych zastosowań i zalet. Z chęcią je wam przybliżymy."
+         "desc":"Gry planszowe cieszą się coraz większą popularnością, pozwalają one nie tylko ciekawie spędzić czas wolny, ale także mają wiele innych zastosowań i zalet. "
       },
       "service2":{
          "title":"JAK MY TWORZYMY GRY?",
-         "desc":"W projektowaniu gier najistotniejsze jest idea. Zobacz jak wygląda proces przekłuwania pomysłu w grę."
+         "desc":"W projektowaniu gier najistotniejsza jest idea. Zobacz jak nasze pomysły stają sie grami. Proces powstawiania gry planszowej można podzielić na cztery główne etapy. "
 	},
       "service3":{
          "title":"CO MOŻEMY ZAOFEROWAĆ?",
-         "desc":"Kompletne gry planszowe,karciane i szkoleniowe. Zawierające unikalne mechanizmy, grafiki i tło fabularne dostosowane do wymagań naszych klientów."
+         "desc":"Kompletne gry planszowe, karciane i szkoleniowe - zawierające unikalne mechanizmy, grafiki i tło fabularne dostosowane do wymagań naszych klientów. "
 	},
       "service4":{
          "title":"ZAGRACIE Z NAMI?",
-         "desc":"Gdzie i kiedy możecie spotkac się z nami i zagrać."
+         "desc":"Gdzie i kiedy możecie spotkac się z nami i zagrać. "
 	}
    },
    "aboutus":{
@@ -65,7 +65,7 @@
          "desc1":"Gry są moją pasją. Jeszcze w czasach studenckich myślałem o pracy związanej z grami. Wkrótce po ukończeniu nauki podjąłem decyzję o założeniu własnej firmy, by realizować swoje pomysły, a z Wami podzielić się moją pasją.",
 	"title2":"Justyna Bąk",
 	"subtitle2":"Grafik",
-         "desc2":"Od najmłodszych lat kształcę się w kierunkach artystycznych. Praca w SHARP GAMES pozwoliła mi spełnić marzenia z dzieciństwa i przekonać moją rodzinę do gier innej niż Chińczyk i Monopoly.",
+         "desc2":"Od najmłodszych lat kształcę się w kierunkach artystycznych. Praca w SHARP GAMES pozwoliła mi spełnić marzenia z dzieciństwa i przekonać moją rodzinę do gier innych niż Chińczyk i Eurobiznes.",
 	"title3":"Tomasz Solga",
 	"subtitle3":"Doradca projektowy",
          "desc3":"Od wielu lat gram gry planszowe, fabularne i komputerowe. Decyzja o podjęciu pracy przy ich tworzeniu była więc naturalna. Burze mózgów, które mamy na codzień, analizowanie wszytskich pomysłów i wniosków sprawiają mi wielką przyjemność, jeszcze większą testowanie naszych dzieł! ",
@@ -110,11 +110,11 @@
             "send":"Wyślij"
         },
         "info":{
-            "desc":"Dane kontaktowe:",
+            "desc":" Dane kontaktowe: ",
             "address":" Adres: ",
             "phone":" Telefon: ",
             "email":" Email: ",
-			"website":" Strona: "
+			"website":" Strona: ",
         }
     }
 }
